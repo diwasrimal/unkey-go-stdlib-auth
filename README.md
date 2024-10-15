@@ -7,8 +7,8 @@ a Go stdlib middleware.
 
 Clone the example and build
 ```
-git clone https://github.com/diwasrimal/unkey-go-stdlib
-cd unkey-go-stdlib
+git clone https://github.com/diwasrimal/unkey-go-stdlib-auth
+cd unkey-go-stdlib-auth
 go build -o server .
 ```
 
